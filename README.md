@@ -32,7 +32,7 @@
     
     /* Seção Hero */
     .hero {
-      background: url('file:///C:/Users/hi.user/Desktop/Particular%20Bruno/Site/images/justi%C3%A7a.jpg') no-repeat center center;
+      background: url('<img src="images/justica.jpg"') no-repeat center center;
       background-size: cover;
       color: #fff;
       height: 70vh;
@@ -128,7 +128,7 @@
         <div class="col-md-4">
           <!-- C:\Users\hi.user\Desktop\Particular Bruno\Logos Juris -->
           <img 
-            src="file:///C:/Users/hi.user/Desktop/Particular%20Bruno/Site/images/novologo.jpg" 
+            src="<img src="images/novologo.jpg" 
             alt="Foto de Bruno Barros"
           >
         </div>
