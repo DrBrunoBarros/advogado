@@ -32,7 +32,7 @@
     
     /* Seção Hero */
     .hero {
-      background: url('![Justiça](https://github.com/user-attachments/assets/d19f92e7-23a8-451f-a9bc-2378e61fa744)') no-repeat center center;
+      background: url('file:///C:/Users/hi.user/Desktop/Particular%20Bruno/Site/images/justi%C3%A7a.jpg') no-repeat center center;
       background-size: cover;
       color: #fff;
       height: 70vh;
@@ -128,7 +128,7 @@
         <div class="col-md-4">
           <!-- C:\Users\hi.user\Desktop\Particular Bruno\Logos Juris -->
           <img 
-            src="![Novo Logo](https://github.com/user-attachments/assets/658fcaa2-2e18-4338-9610-3b3e26e50198)" 
+            src="file:///C:/Users/hi.user/Desktop/Particular%20Bruno/Site/images/novologo.jpg" 
             alt="Foto de Bruno Barros"
           >
         </div>
